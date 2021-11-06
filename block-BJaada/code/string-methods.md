@@ -31,21 +31,21 @@ Example:
      ```
    - `charAt` accepts a index (number data type) and return the character on that index in the string.
 
-2. `toUpperCase`
-3. `toLowerCase`
-4. `trim`
-5. `trimEnd`
-6. `trimStart`
-7. `concat`
-8. `endsWith`
-9. `includes`
-10. `indexOf`
-11. `lastIndexOf`
-12. `padEnd`
-13. `padStart`
-14. `repeat`
-15. `replace`
-16. `slice`
-17. `split`
-18. `substring`
+2. `toUpperCase` It is very straight forward anyvalue into uppercase.
+3. `toLowerCase`It is very straight forward anyvalue into lowercase.
+4. `trim` It will remove all the wide spaces from the start or end.
+5. `trimEnd`It will remove all the wide spaces from the end.
+6. `trimStart`It will remove all the wide spaces from the start.
+7. `concat`It is used for concatinating multiple string value.
+8. `endsWith`It returns True/False value based on wether that string endswith that specific character or value.
+9. `includes`It returns True/False value based on wether the value or character is present inside that string.
+10. `indexOf`It returns indexof specific character that we looking it should exist or not in the variable of the string.
+11. `lastIndexOf`It same as indexof but it looks for lastindexof that specific value.
+12. `padEnd`It is used add padding to the string at end.
+13. `padStart`It is used add padding to the string at start.
+14. `repeat`It is used for repeating the same string in multiple times.
+15. `replace`It will replace a character or specific site of characters from a string.
+16. `slice`It accepts 2 parameters start/end index taking out portion of string in some other way.
+17. `split`It is used for spliting or string into small spaces.
+18. `substring`It is used for taking out a small portion from a string.
 h
